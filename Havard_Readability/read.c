@@ -43,5 +43,5 @@ int main(void) {
         printf("Grade: %d", rounded_indice);
     }
 
-
+    return 0;
 }
