@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
         found[index] = 1;
     }
 
-    char str[300];
+    char str[100];
 
     printf("plaintext: ");
     fgets(str, sizeof(str), stdin);
